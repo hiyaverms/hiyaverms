@@ -8,6 +8,8 @@ I'm a Data Science student at **Boston University** (B.S. May 2027, Computer Sci
 **Technical Intern, Rigor AI** · Summer 2026
 - Sped up a regression suite for **Palo Alto and Fortinet firewall configurations** from 22 minutes to **40 seconds (33x)**
 - Sped up test-verdict output in shell-script tooling from 24 s to **42 ms (570x)** by replacing thousands of subprocesses with Bash built-ins
+
+  
 **Data Science Intern, CareFlick** · Summer 2025
 - Built a JavaScript analytics dashboard and automated transcript translation to reveal usage patterns
 - Tested and fine-tuned AI companions (OpenAI, Cartesia, ElevenLabs), which **raised usage by 8%**
