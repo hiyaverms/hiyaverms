@@ -18,6 +18,7 @@ I'm a Data Science student at **Boston University** (B.S. May 2027, Computer Sci
 | Project | What it is | Stack |
 |---|---|---|
 | [actor_node_graph](https://github.com/hiyaverms/actor_node_graph) | Graph analysis of ~18M IMDb records: centrality measures and shortest paths between actors | Rust |
+| [EatSmart](https://github.com/BradyXue1/Team-Tony) | BostonHacks: turns photos of your fridge into recipe suggestions that cut food waste and fit your health goals (team of 4) | React, Python, Gemini, MongoDB |
 | [MoveGreen](https://github.com/hiyaverms/MoveGreen) | EcoForge Hackathon: compares Boston commute options by time and CO₂, with an AI travel assistant | JavaScript, Node.js, Google Maps API, Gemini |
 | [HV_Resume_React](https://github.com/hiyaverms/HV_Resume_React) | My personal resume site | React, TypeScript, Vite |
 | [Holidays](https://github.com/hiyaverms/Holidays) | Look up U.S. holidays by date | Next.js, TypeScript |
